@@ -22,7 +22,7 @@ scripts.
 ## Install
 
 ```sh
-curl -fsSL https://raw.githubusercontent.com/kb777only/JieZhi/main/scripts/install.sh | sh
+curl -fsSL https://raw.githubusercontent.com/BrunoAraujo99/JieZhi/main/scripts/install.sh | sh
 ```
 
 That is the whole install. It clones this repository into `~/.local/opt/jiezhi`,
